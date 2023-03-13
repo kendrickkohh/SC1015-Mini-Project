@@ -1,5 +1,5 @@
 # SC1015-Mini-Project
-# About
+### About
 For detailed walkthrough please view in the following format:
 1. Data Exploration
 
