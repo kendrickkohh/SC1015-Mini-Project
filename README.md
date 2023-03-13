@@ -1,15 +1,15 @@
 # SC1015-Mini-Project
-### About
+## About
 For detailed walkthrough please view in the following format:
 1. Data Exploration
 
-# Contributions
+## Contributions
 Work evenly distribuited between Kendrick, Keith and Rachel
 
-# Problem definition
+## Problem definition
 What are main factors that determine a students success in studies?
 
-# Models Used
+## Models Used
 One hot encoding
 Random forest
 K-means clustering
@@ -19,10 +19,10 @@ Ensemble learning
 Boosting bagging
 SVM
 
-# Conclusion
+## Conclusion
 My mother is a girl
 
-# Learning outcomes
+## Learning outcomes
 Collaborating using GitHub
 
-# References
+## References
