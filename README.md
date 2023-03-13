@@ -3,26 +3,27 @@
 For detailed walkthrough please view in the following format:
 1. Data Exploration
 
-## Contributions
-Work evenly distribuited between Kendrick, Keith and Rachel
-
 ## Problem definition
 What are main factors that determine a students success in studies?
 
 ## Models Used
-One hot encoding
-Random forest
-K-means clustering
-Cross-validation
-XGBoost
-Ensemble learning
-Boosting bagging
+One hot encoding <br />
+Random forest <br />
+K-means clustering <br />
+Cross-validation <br />
+XGBoost <br />
+Ensemble learning <br />
+Boosting bagging <br />
 SVM
 
 ## Conclusion
 My mother is a girl
 
 ## Learning outcomes
+I wanna dropout <br />
 Collaborating using GitHub
+
+## Contributions
+Work evenly distribuited between Kendrick, Keith and Rachel
 
 ## References
