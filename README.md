@@ -7,6 +7,7 @@ For detailed walkthrough please view in the following format:
 
 ## Problem definition
 What are main factors that determine a students success in studies?
+How a students lifestyle affects his grades?
 
 ## Models Used
 One hot encoding <br />
