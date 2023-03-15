@@ -1,5 +1,7 @@
 # SC1015-Mini-Project
 ## About
+Dataset: https://archive.ics.uci.edu/ml/datasets/student+performance
+
 For detailed walkthrough please view in the following format:
 1. Data Exploration
 
