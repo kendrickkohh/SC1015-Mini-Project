@@ -14,8 +14,8 @@ One hot encoding <br />
 Random forest <br />
 K-means clustering <br />
 Cross-validation <br />
-XGBoost <br />
-Ensemble learning <br />
+XGBoost (decision tree) <br />
+Ensemble learning (Stacked generalization) <br />
 Boosting bagging <br />
 SVM
 
@@ -23,7 +23,6 @@ SVM
 My mother is a girl
 
 ## Learning outcomes
-I wanna dropout <br />
 Collaborating using GitHub
 
 ## Contributions
