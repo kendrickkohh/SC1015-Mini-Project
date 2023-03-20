@@ -9,15 +9,14 @@ For detailed walkthrough please view in the following format:
 What are main factors that determine a students success in studies?
 How a students lifestyle affects his grades?
 
-## Models Used
+## Comparison models Used
 One hot encoding <br />
-Random forest <br />
-K-means clustering <br />
 Cross-validation <br />
+
+## Algorithms used
+K-means clustering <br />
 XGBoost (decision tree) <br />
-Ensemble learning (Stacked generalization) <br />
-Boosting bagging <br />
-SVM
+Neural Network
 
 ## Conclusion
 My mother is a girl
