@@ -20,6 +20,8 @@ One hot encoding <br />
 Cross-validation <br />
 
 ## Algorithms used
+Linear regression <br />
+Classification Tree <br />
 K-means clustering <br />
 XGBoost (decision tree) <br />
 Neural Network
