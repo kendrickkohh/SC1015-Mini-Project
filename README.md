@@ -18,6 +18,17 @@ How a students lifestyle affects his grades?
 ## Comparison models Used
 One hot encoding <br />
 Cross-validation <br />
+Confusion Matrix <br />
+Elbow Plot <br />
+Standard Scalar <br />
+Decision Tree <br />
+Boxplot <br />
+Violinplot <br />
+Histogram <br />
+Heatmap <br />
+Pairplot <br />
+2D and 3D Scatterplot <br />
+Catplot <br />
 
 ## Algorithms used
 Linear regression <br />
@@ -38,7 +49,7 @@ Work evenly distribuited between Kendrick, Keith and Rachel
 ## References
 XGBoost documentation: https://xgboost.readthedocs.io/en/stable/install.html <br />
 XGBoost reference video: https://www.youtube.com/watch?v=OtD8wVaFm6E <br />
-K-means Clustering documentaion: https://www.datacamp.com/tutorial/k-means-clustering-python
-K-means Clustering: https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
-K-means Clustering: https://medium.com/analytics-vidhya/the-ultimate-guide-for-clustering-mixed-data-1eefa0b4743b
+K-means Clustering documentaion: https://www.datacamp.com/tutorial/k-means-clustering-python <br />
+K-means Clustering: https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html <br />
+K-means Clustering: https://medium.com/analytics-vidhya/the-ultimate-guide-for-clustering-mixed-data-1eefa0b4743b <br />
 
