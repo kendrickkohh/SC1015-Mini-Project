@@ -39,4 +39,6 @@ Work evenly distribuited between Kendrick, Keith and Rachel
 XGBoost documentation: https://xgboost.readthedocs.io/en/stable/install.html <br />
 XGBoost reference video: https://www.youtube.com/watch?v=OtD8wVaFm6E <br />
 K-means Clustering documentaion: https://www.datacamp.com/tutorial/k-means-clustering-python
+K-means Clustering: https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+K-means Clustering: https://medium.com/analytics-vidhya/the-ultimate-guide-for-clustering-mixed-data-1eefa0b4743b
 
