@@ -4,11 +4,12 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/student+performance
 
 For detailed walkthrough please view in the following format:
 1. EDA (Boxplot, Scatterplot)
-2. EDA for linear regression (Multi-variate)
-3. EDA for linear regression (Single-variate)
-4. K-Means Clustering
-5. XGBoost_AllVar
-6. XGBoost_SelectedVar
+2. EDA (Multi-variate Linear Regression)
+3. EDA (Single-variate Linear Regression)
+4. EDA (Classification Tree)
+5. K-Means Clustering
+6. XGBoost_AllVar
+7. XGBoost_SelectedVar
 
 ## Problem definition
 What are main factors that determine a students success in studies?
