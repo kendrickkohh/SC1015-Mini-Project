@@ -10,9 +10,11 @@ For detailed walkthrough please view in the following format:
 5. K-Means Clustering
 6. XGBoost_AllVar
 7. XGBoost_SelectedVar
+8. Neural_Network_AllVar
+9. Neural_Network_SelectedVar
 
 ## Problem definition
-What are main factors that determine a students success in studies?
+What are main factors that determine a students success in studies? <br />
 How a students lifestyle affects his grades?
 
 ## Comparison models Used
@@ -38,18 +40,27 @@ XGBoost (decision tree) <br />
 Neural Network
 
 ## Conclusion
-My mother is a girl
+From our analysis, the following are the main factors that result in higher grades: <br />
+1) Parents having higher education level <br />
+2) Longer weekly study time <br />
+3) Better quality of family relationships <br />
+4) Lower levels of alcohol consumption on both workdays and weekends <br />
+5) Lower health levels <br />
+6) Lower numbers of school absences <br />
 
 ## Learning outcomes
+Learnt different models and methods to improving the accuracy of a prediction based on a given dataset <br />
+Application of K-means clustering <br />
+Application of XGBoost <br />
+Applciation of Neural Networks <br />
 Collaborating using GitHub
 
 ## Contributions
-Work evenly distribuited between Kendrick, Keith and Rachel
+Work evenly distribuited between Kendrick, Keith and Shuyi
 
 ## References
-XGBoost documentation: https://xgboost.readthedocs.io/en/stable/install.html <br />
-XGBoost reference video: https://www.youtube.com/watch?v=OtD8wVaFm6E <br />
 K-means Clustering documentaion: https://www.datacamp.com/tutorial/k-means-clustering-python <br />
 K-means Clustering: https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html <br />
 K-means Clustering: https://medium.com/analytics-vidhya/the-ultimate-guide-for-clustering-mixed-data-1eefa0b4743b <br />
-
+XGBoost documentation: https://xgboost.readthedocs.io/en/stable/install.html <br />
+XGBoost reference video: https://www.youtube.com/watch?v=OtD8wVaFm6E <br />
