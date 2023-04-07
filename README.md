@@ -36,5 +36,5 @@ Collaborating using GitHub
 Work evenly distribuited between Kendrick, Keith and Rachel
 
 ## References
-XGBoost documentation: https://xgboost.readthedocs.io/en/stable/install.html
+XGBoost documentation: https://xgboost.readthedocs.io/en/stable/install.html <br />
 XGBoost reference video: https://www.youtube.com/watch?v=OtD8wVaFm6E
