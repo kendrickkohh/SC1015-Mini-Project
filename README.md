@@ -10,8 +10,7 @@ For detailed walkthrough please view in the following format:
 5. K-Means Clustering
 6. XGBoost_AllVar
 7. XGBoost_SelectedVar
-8. Neural_Network_AllVar
-9. Neural_Network_SelectedVar
+8. Neural_Network
 
 ## Problem definition
 What are main factors that determine a students success in studies? <br />
