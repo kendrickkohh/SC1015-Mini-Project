@@ -63,3 +63,4 @@ K-means Clustering: https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-
 K-means Clustering: https://medium.com/analytics-vidhya/the-ultimate-guide-for-clustering-mixed-data-1eefa0b4743b <br />
 XGBoost documentation: https://xgboost.readthedocs.io/en/stable/install.html <br />
 XGBoost reference video: https://www.youtube.com/watch?v=OtD8wVaFm6E <br />
+Neural Network: https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb <br />
