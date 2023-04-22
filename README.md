@@ -1,9 +1,9 @@
 # SC1015-Mini-Project
 ## About
 
-In this project, we discuss the main factors that determine a students success in studies using the dataset of Student Performance from the University of Minho
+In this project, we discuss the main factors that determine a students success in studies using the dataset of Student Performance from the University of Minho.
 
-We explore the dataset using various models and numerous algorithms to predict a students grades
+We explore the dataset using various models and numerous algorithms to predict a students grades.
 
 Dataset: https://archive.ics.uci.edu/ml/datasets/student+performance
 
@@ -60,7 +60,7 @@ Applciation of Neural Networks <br />
 Collaborating using GitHub
 
 ## Contributions
-Work evenly distribuited between Kendrick, Keith and Shuyi
+Work evenly distribuited between Kendrick, Keith and ShuYi
 
 ## References
 K-means Clustering documentaion: https://www.datacamp.com/tutorial/k-means-clustering-python <br />
