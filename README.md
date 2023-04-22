@@ -1,5 +1,10 @@
 # SC1015-Mini-Project
 ## About
+
+In this project, we discuss the main factors that determine a students success in studies using the dataset of Student Performance from the University of Minho
+
+We explore the dataset using various models and numerous algorithms to predict a students grades
+
 Dataset: https://archive.ics.uci.edu/ml/datasets/student+performance
 
 For detailed walkthrough please view in the following format:
